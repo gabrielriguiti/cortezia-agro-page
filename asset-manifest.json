@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cortezia-agro-page/static/css/main.3920a117.css",
+    "main.js": "/cortezia-agro-page/static/js/main.3acc87f8.js",
+    "static/js/787.322c7e78.chunk.js": "/cortezia-agro-page/static/js/787.322c7e78.chunk.js",
+    "static/media/configuracoes.png": "/cortezia-agro-page/static/media/configuracoes.179d045428021257afae.png",
+    "static/media/liberacoes_filtros.png": "/cortezia-agro-page/static/media/liberacoes_filtros.85e76e0c9370ac09eb7f.png",
+    "static/media/logo.png": "/cortezia-agro-page/static/media/logo.656dab5688fe27d86a89.png",
+    "static/media/pagamentos_screend.png": "/cortezia-agro-page/static/media/pagamentos_screend.d9b43d766cf0368f9cd5.png",
+    "static/media/liberacoes.png": "/cortezia-agro-page/static/media/liberacoes.ed193c1e8386e62c0aca.png",
+    "static/media/pagamentos.png": "/cortezia-agro-page/static/media/pagamentos.bd4657e049b04232c0ef.png",
+    "static/media/configuracoes2.png": "/cortezia-agro-page/static/media/configuracoes2.57726e12ad6290f857d5.png",
+    "index.html": "/cortezia-agro-page/index.html",
+    "main.3920a117.css.map": "/cortezia-agro-page/static/css/main.3920a117.css.map",
+    "main.3acc87f8.js.map": "/cortezia-agro-page/static/js/main.3acc87f8.js.map",
+    "787.322c7e78.chunk.js.map": "/cortezia-agro-page/static/js/787.322c7e78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3920a117.css",
+    "static/js/main.3acc87f8.js"
+  ]
+}
